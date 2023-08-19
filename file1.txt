@@ -1,3 +1,10 @@
 Today is wednesday and we are learning Git and Unix
 and this is the new branch
 hsdnndonnds
+this is to test how the commit works, because this is also getting copied to the master branch. Gotta figure how it works.
+
+
+i am making changes to the master branch to see it gets updated with the child branch 
+
+now im trying this new method which i saw on stackoverflow
+
